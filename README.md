@@ -84,7 +84,7 @@ DB_HOST=127.0.0.1
 DB_PORT=3306
 
 
-🧠 4. What This Project Does
+🧠What This Project Does
     Sets up a basic REST API in Go using Gin (web framework)
     Connects to MySQL using GORM (ORM)
     Uses .env file to keep secrets/configs separate
